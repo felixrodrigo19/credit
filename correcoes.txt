@@ -1,0 +1,2 @@
+idade negativa
+dados nulos no campo idade

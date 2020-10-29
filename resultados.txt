@@ -1,0 +1,19 @@
+- Com Dados Padronizados -
+Modelo: GaussianNB - Taxa de acerto: 0.9206666666666667
+Modelo: RandomForestClassifier - Taxa de acerto: 0.9833333333333334
+Modelo: KNeighborsClassifier - Taxa de acerto: 0.9766666666666666
+
+- Sem Dados Padronizados -
+Modelo: GaussianNB - Taxa de acerto: 0.9206666666666667
+Modelo: RandomForestClassifier - Taxa de acerto: 0.986
+Modelo: KNeighborsClassifier - Taxa de acerto: 0.836
+
+- Com 30 % para teste e Padronizados -
+Modelo: GaussianNB - Taxa de acerto: 0.9235714285714286
+Modelo: RandomForestClassifier - Taxa de acerto: 0.985
+Modelo: KNeighborsClassifier - Taxa de acerto: 0.9757142857142856
+
+- Com 30 % para teste e Não Padronizados -
+Modelo: GaussianNB - Taxa de acerto: 0.9228571428571429
+Modelo: RandomForestClassifier - Taxa de acerto: 0.9864285714285715
+Modelo: KNeighborsClassifier - Taxa de acerto: 0.8257142857142856
